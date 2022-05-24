@@ -8,7 +8,6 @@ function a() {
 }
 
 var myVar = 1;
-console.log("g-1", myVar);
 a();
 
 function a() {
@@ -22,5 +21,4 @@ function a() {
 }
 
 var myVar = 1;
-console.log("g-2", myVar);
 a();
