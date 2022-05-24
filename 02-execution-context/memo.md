@@ -58,4 +58,16 @@
 
 # variable environment
 
--
+- memory space in execution context
+
+# asynchronous
+
+- more than one at a time
+
+# browser
+
+- the JS engine
+- rendering engine
+- HTTP request / Web API
+
+- event queue / callback queue (click etc.)
