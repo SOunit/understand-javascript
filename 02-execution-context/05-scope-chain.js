@@ -8,3 +8,5 @@ function a() {
 
 var myVar = 1;
 a();
+
+// scope chain is decided by lexical environment

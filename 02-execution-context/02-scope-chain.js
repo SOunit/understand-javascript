@@ -1,6 +1,3 @@
-// scope chain
-// execution context has outer lexical environment ref
-
 function b() {
   console.log(myVar);
 }
@@ -12,3 +9,6 @@ function a() {
 
 var myVar = 1;
 a();
+
+// scope chain
+// execution context has outer lexical environment ref
