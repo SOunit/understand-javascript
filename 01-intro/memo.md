@@ -1,0 +1,3 @@
+- JS has different mechanism from other languages
+- understand, not imitate
+- deep understanding where library and framework developers know / jQuery / AngularJS
