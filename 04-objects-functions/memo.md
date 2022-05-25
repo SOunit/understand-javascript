@@ -28,3 +28,13 @@
 - unique to function
   - Name (Optional / can be anonymous)
   - Code / invocable
+
+# expression
+
+- a unit of a code that results in a value
+- function expression
+
+# statement
+
+- return nothing
+- function statement
