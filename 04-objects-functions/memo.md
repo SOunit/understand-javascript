@@ -38,3 +38,12 @@
 
 - return nothing
 - function statement
+
+# by value / by reference
+
+- by value for primitive values
+- by reference for all object including functions
+
+# mutate
+
+- to change something
