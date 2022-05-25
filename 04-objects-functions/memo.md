@@ -55,3 +55,29 @@
 - this
 
 # array
+
+# syntax parser
+
+- translate your code to machine code
+- parser can change your code before run the code
+
+# semicolon insertion
+
+- should pub semicolon
+- JS engine insert semicolon automatically
+- but that can be a bug hard to track in the sample below
+
+```
+return
+{
+  name: 'Jack'
+}
+```
+
+# closure
+
+- language feature
+- keep variable
+  - execution context / outer scope
+  - scope chain / lexical environment
+  - gavage collection
