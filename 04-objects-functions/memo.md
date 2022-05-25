@@ -53,3 +53,5 @@
 - variable environment
 - outer lexical environment / scope chain
 - this
+
+# array
