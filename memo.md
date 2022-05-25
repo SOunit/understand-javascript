@@ -2,5 +2,5 @@
 
 ```
 cd 04-objects-functions
-node 03-sample.js
+node 03-name-space.js
 ```
