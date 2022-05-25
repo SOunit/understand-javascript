@@ -47,3 +47,9 @@
 # mutate
 
 - to change something
+
+# Execution Context / creation phase
+
+- variable environment
+- outer lexical environment / scope chain
+- this
